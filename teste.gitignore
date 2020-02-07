@@ -1,3 +1,4 @@
 fazendo teste para ignore no git
 *.java
 *.bmp
+config.user
